@@ -10,19 +10,19 @@
 
    - Select "Download the ISO" and click "Continue"
 
-     ![](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\1.PNG)
+     ![1](https://user-images.githubusercontent.com/92453574/143666583-27604637-b129-4ee8-8077-86f945653239.PNG)
 
      
 
    - Fill in personal data according to the display, then check the checkbox and click "Continue"
 
-     ![](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\2.PNG)
+     ![2](https://user-images.githubusercontent.com/92453574/143666584-e2179e58-ca8f-43bf-a9b7-019d2f7c8d13.PNG)
 
      
 
    - Select the desired language and click "Download"
 
-     ![](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\0.PNG)
+     ![0](https://user-images.githubusercontent.com/92453574/143666581-0207bc69-cfa1-41dc-aa76-2680575447b6.PNG)
 
      
 
@@ -34,189 +34,189 @@
 
    - Open VirtualBox and click "Baru"
 
-     ![](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\3.PNG)
+     ![3](https://user-images.githubusercontent.com/92453574/143666585-4ecbe1f6-a1fd-41b0-8c59-023140e5c787.PNG)
 
      
 
    - Enter the name of the machine and type of system to use and click "Lanjut"
 
-     ![](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\4.PNG)
+     ![4](https://user-images.githubusercontent.com/92453574/143666586-13261b04-aa69-4bfe-be77-a14c50ed4a00.PNG)
 
      
 
    - Specify the memory size and click "Lanjut"
 
-     ![5](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\5.PNG)
+     ![5](https://user-images.githubusercontent.com/92453574/143666588-faf42786-9c3c-43f2-9553-38e1f90ee31a.PNG)
 
    
 
    - Choose "Buat hard disk virtual sekarang" and click "Lanjut"
 
-     ![6](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\6.PNG)
+     ![6](https://user-images.githubusercontent.com/92453574/143666590-1e23aacd-622c-4b56-8fb6-4e7b695de943.PNG)
 
      
 
    - Choose "VDI (VirtualBox Disk Image)" and click "Lanjut"
 
-     ![7](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\7.PNG)
+     ![7](https://user-images.githubusercontent.com/92453574/143666593-7d2290e3-15cd-4010-95f9-09edafccdd3d.PNG)
 
      
 
    - Choose "Dialokasikan secara dinamik" and click "Lanjut"
 
-     ![8](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\8.PNG)
+     ![8](https://user-images.githubusercontent.com/92453574/143666595-be27fdec-df60-4137-9574-1e3d84b182e1.PNG)
 
    
 
    - Choose "Dialokasikan secara dinamik" and click "Buat"
 
-     ![9](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\9.PNG)
+     ![9](https://user-images.githubusercontent.com/92453574/143666598-d177e6fe-b210-42b2-9224-67d78dd4fafd.PNG)
 
      
 
    - After Windows Server 2022 is created, now go to "Pengaturan"
 
-     ![10](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\10.PNG)
+     ![10](https://user-images.githubusercontent.com/92453574/143666600-aa7f5f2e-fc6c-4830-8aa3-966314e2a3ce.PNG)
 
      
 
    - Select "Jaringan" menu, select "Adaptor Ter-bridge", and click "OK"
 
-     ![11](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\11.PNG)
+     ![11](https://user-images.githubusercontent.com/92453574/143666601-a60281c7-f928-4434-ad17-d44505ac0e77.PNG)
 
      
 
    - Back to the initial view and click "Mulai"
 
-     ![10](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\10.PNG)
+     ![10](https://user-images.githubusercontent.com/92453574/143666600-aa7f5f2e-fc6c-4830-8aa3-966314e2a3ce.PNG)
 
      
 
    - Select the ISO downloaded 
 
-     ![12](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\12.PNG)
+     ![12](https://user-images.githubusercontent.com/92453574/143666602-1818f0cb-761d-4b2a-b91d-4ca24c0f180b.PNG)
 
      
 
    - Click "Mulai"
 
-     ![13](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\13.PNG)
+     ![13](https://user-images.githubusercontent.com/92453574/143666605-f552cfcf-efad-43d5-b19f-fbbfaf633075.PNG)
 
      
 
    - Wait until it looks like this, then choose language, time and currency format, and keyboard or input method. then choose "Next"
 
-     ![14](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\14.PNG)
+     ![14](https://user-images.githubusercontent.com/92453574/143666606-8358b246-25d0-412c-acf5-c2533b22f0aa.PNG)
 
      
 
    - Click "Install Now"
 
-     ![15](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\15.PNG)
+     ![15](https://user-images.githubusercontent.com/92453574/143666607-4084718d-3741-4c02-b0c2-356d252d0b56.PNG)
 
      
 
    - Click "Next"
 
-     ![16](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\16.PNG)
+     ![16](https://user-images.githubusercontent.com/92453574/143666609-70c7a008-ea7c-46cc-b417-b17990a3bca0.PNG)
 
      
 
    - Check the Checkbox and click "Next"
 
-     ![17](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\17.PNG)
+     ![17](https://user-images.githubusercontent.com/92453574/143666610-42dc5dec-15ae-4b77-8d3e-21584dab9ecc.PNG)
 
      
 
    - Choose "Custom : Install Microsoft Server Operating System only (advanced)"
 
-     ![18](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\18.PNG)
+     ![18](https://user-images.githubusercontent.com/92453574/143666612-7b2061d8-942e-4924-b647-2a7225cffd84.PNG)
 
      
 
    - Click "Next"
 
-     ![19](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\19.PNG)
+     ![19](https://user-images.githubusercontent.com/92453574/143666614-a7aeac83-534e-49fe-8265-eba590849e4b.PNG)
 
      
 
    - Then wait until the installation is complete
 
-     ![20](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\20.PNG)
+     ![20](https://user-images.githubusercontent.com/92453574/143666616-6e439807-31ef-42a0-b9ce-a2f91b7014ad.PNG)
 
-     ![21](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\21.PNG)
+     ![21](https://user-images.githubusercontent.com/92453574/143666617-eae21c77-44b4-40f6-85bb-fe6f9cb438b6.PNG)
 
      
 
    - Creat new password
 
-     ![22](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\22.PNG)
+     ![22](https://user-images.githubusercontent.com/92453574/143666620-4583fe18-5cf7-4519-a55e-992585abaae7.PNG)
 
      
 
    - Then press Ctrl + Alt + Delete to unlock
 
-     ![23](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\23.PNG)
+     ![23](https://user-images.githubusercontent.com/92453574/143666621-d4344a3b-0602-4c03-8c1f-f204d54804ce.PNG)
 
      
 
    - Sign in with the password you created
 
-     ![24](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\24.PNG)
+     ![24](https://user-images.githubusercontent.com/92453574/143666622-65c79fd7-e47f-4a89-a3cc-41fb607e99f1.PNG)
 
      
 
    - Go to menu Deice, then choose Insert Guest Additions CD Image
 
-     ![25](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\25.png)
+     ![25](https://user-images.githubusercontent.com/92453574/143666624-8d1a1dec-36bd-4a7a-9045-4453ee1e1590.png)
 
      
 
    - Go to File Exploler and choose Vbox Windows Additions
 
-     ![26](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\26.PNG)
+     ![26](https://user-images.githubusercontent.com/92453574/143666625-0b5b8fda-e970-41c9-8cfb-4edc163e2d83.PNG)
 
      
 
    - Click "Next"
 
-     ![27](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\27.PNG)
+     ![27](https://user-images.githubusercontent.com/92453574/143666626-99875e50-f186-4734-8fe4-a71463db1b26.PNG)
 
      
 
    - Click "Next"
 
-     ![28](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\28.PNG)
+     ![28](https://user-images.githubusercontent.com/92453574/143666630-1218b7d2-07dd-4bdc-b0ee-c7766d71bee2.PNG)
 
      
 
    - Then, Install
 
-     ![29](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\29.PNG)
+     ![29](https://user-images.githubusercontent.com/92453574/143666632-2367db6f-d326-4c57-a710-069ce00bebcb.PNG)
 
      
 
    - Choose reboot now and click "Finish"
 
-     ![30](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\30.PNG)
+     ![30](https://user-images.githubusercontent.com/92453574/143666634-116d544f-a772-4216-a4cb-b963efa95b08.PNG)
 
      
 
    - Your Windows Server 2022 will be reboot
 
-     ![31](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\31.PNG)
+     ![31](https://user-images.githubusercontent.com/92453574/143666635-025f154b-6fe8-4265-97c6-304bb1f246a3.PNG)
 
      
 
    - Sign in again with your password
 
-     ![32](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\32.PNG)
+     ![32](https://user-images.githubusercontent.com/92453574/143666636-ef528674-fc05-485b-bdf7-6d681176bc32.PNG)
 
      
 
    - Run “winver” to validate the installed edition of Windows Server
 
-     ![33](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\33.PNG)
+     ![33](https://user-images.githubusercontent.com/92453574/143666639-ee854b60-a53c-422c-a000-6d0d27c26224.PNG)
 
    
 
@@ -226,61 +226,61 @@
 
    - Before doing the installation, we change the computer name first by going to windows powershell. Then type "rename-computer -Newname Server2022"
 
-     ![34](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\34.PNG)
+     ![34](https://user-images.githubusercontent.com/92453574/143666640-01f2bc8e-0573-41e9-a78d-593c6031035a.PNG)
 
      
 
    - Go to the "Server Manager" menu. Then select the “Manage” option, followed by clicking “Add Roles and Features”. Then click "Next".
 
-     ![35](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\35.PNG)
+     ![35](https://user-images.githubusercontent.com/92453574/143666642-b684d32e-92b1-464b-b9bb-6206a608dfab.PNG)
 
      
 
    -  Select “Role-based or feature-based installation”. Then “Next”
 
-     ![36](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\36.PNG)
+     ![36](https://user-images.githubusercontent.com/92453574/143666644-27e527bb-1fd0-4c2a-b017-cca58130c4a6.PNG)
 
      
 
    - Click “Select a server from the server pool”. Then "Next"
 
-     ![37](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\37.PNG)
+     ![37](https://user-images.githubusercontent.com/92453574/143666646-d09157e9-70ad-4dae-8083-860e807394c2.PNG)
 
      
 
    - Next, put a check mark in the “Active Directory Domain Services” box.
 
-     ![38](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\38.PNG)
+     ![38](https://user-images.githubusercontent.com/92453574/143666647-dc34f6d1-5681-4459-95f4-19f8d730114f.PNG)
 
      
 
    -  Then appears a brief description of AD DS and how it works. Then click "Add Features".
 
-     ![39](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\39.PNG)
+     ![39](https://user-images.githubusercontent.com/92453574/143666648-f0df92dd-64c3-49d4-886c-4a98b08ecc1e.PNG)
 
      
 
    - Then check the “Group Policy Management” box and press the “Next” button.
-
-     ![40](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\40.PNG)
+     
+      ![40](https://user-images.githubusercontent.com/92453574/143666650-4cb37f7a-3153-4af1-aeff-4e5b460d698f.PNG)
 
      
    
    - Click "Next"
    
-     ![41](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\41.PNG)
+     ![41](https://user-images.githubusercontent.com/92453574/143666652-9ee2afdc-435b-4959-83d5-3c2fd241c8d4.PNG)
    
      
    
    - Click "Install"
    
-     ![42](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\42.PNG)
+     ![42](https://user-images.githubusercontent.com/92453574/143666654-a10efda2-8dd0-4cd5-b44c-e3b361f311a6.PNG)
    
      
    
    - Wait until the installation process is complete then configure AD DS, and done.
    
-     ![43](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\43.PNG)
+     ![43](https://user-images.githubusercontent.com/92453574/143666656-4d3213bc-9007-4356-a609-499a1f750983.PNG)
    
    
    
@@ -290,13 +290,13 @@
    
    - Go to the "Server Manager" menu. Then select the “Manage” option, followed by clicking “Add Roles and Features”. Then click "Next" and "Add Features". 
    
-     ![44](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\44.PNG)
+     ![44](https://user-images.githubusercontent.com/92453574/143666657-be46bce2-c020-4a54-8ae1-c66afa45771b.PNG)
    
      
    
    - Click "Continue"
    
-     ![45](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\45.PNG)
+     ![45](https://user-images.githubusercontent.com/92453574/143666659-591c5f4b-6734-4365-8154-d5808f2ae953.PNG)
    
    
    
@@ -306,31 +306,31 @@
    
    - Check in checkbox ".NET Framework Features", then click "Next"
    
-     ![46](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\46.PNG)
+     ![46](https://user-images.githubusercontent.com/92453574/143666660-00949657-9366-44aa-97d1-08901d852c61.PNG)
    
      
    
    - Click "Next"
    
-     ![47](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\47.PNG)
+     ![47](https://user-images.githubusercontent.com/92453574/143666661-15143b04-6ebb-4f38-9fb7-7a9ce9f6bf62.PNG)
    
      
    
    - Click "Install"
    
-     ![48](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\48.PNG)
+     ![48](https://user-images.githubusercontent.com/92453574/143666664-1388e45c-cd57-4566-bc8c-f764ce665777.PNG)
    
      
    
    -  Wait until the installation process is complete
    
-     ![49](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\49.PNG)
+     ![49](https://user-images.githubusercontent.com/92453574/143666666-32f6f282-5df9-4af8-9f26-322671c8ceca.PNG)
    
      
    
    - And the installation is complete
    
-     ![50](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\50.PNG)
+     ![50](https://user-images.githubusercontent.com/92453574/143666667-5b961359-9ffc-481a-aaaa-769d221484ed.PNG)
    
    
    
@@ -340,7 +340,7 @@
    
    - Go to CMD, than type sconfig
    
-     ![51](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\51.PNG)
+     ![51](https://user-images.githubusercontent.com/92453574/143666669-ee5cf7aa-c499-439d-bd36-f9964a416f19.PNG)
    
      
    
