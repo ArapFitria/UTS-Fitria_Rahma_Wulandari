@@ -346,109 +346,109 @@
    
    - Choose number 8 by typing
    
-     ![52](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\52.PNG)
+     ![52](https://user-images.githubusercontent.com/92453574/143680394-777d09f8-64c6-4143-932c-ad171a4f236f.PNG)
    
      
    
    - Choose number 1 by typing
    
-     ![53](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\53.PNG)
+     ![53](https://user-images.githubusercontent.com/92453574/143680398-bdaa3fc4-a77c-48d0-b87f-7a601f08907a.PNG)
    
      
    
    - Choose number 8 by typing
    
-     ![54](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\54.PNG)
+     ![54](https://user-images.githubusercontent.com/92453574/143680399-762eb43a-d9ba-440f-a1b5-743fe5b90f5b.PNG)
    
      
    
    - Then type "S" to ststic IP configuration.
    
-     ![55](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\55.PNG)
+     ![55](https://user-images.githubusercontent.com/92453574/143680401-d979af2a-76ca-4414-9160-72ab3c76909f.PNG)
    
      
    
    - Then CMD will process it
    
-     ![56](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\56.PNG)
+     ![56](https://user-images.githubusercontent.com/92453574/143680404-eb5ac1a3-5355-420a-aef9-9d1bd8ce38ae.PNG)
    
      
    
    - Setting the IP Address Server-ADDS and pointing the DNS to the static IP address used. and click "OK"
    
-     ![57](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\57.PNG)
+     ![57](https://user-images.githubusercontent.com/92453574/143680407-d9bfb98d-c4ee-4894-9b89-b18c0b50a945.PNG)
    
      
    
    - Click “Promote this server to a domain controller for AD DS configuration
    
-     ![58a](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\58a.png)
+     ![58a](https://user-images.githubusercontent.com/92453574/143680413-9e5e3ac1-40c8-4ac5-a918-2262d6b34675.PNG)
    
      
    
    - Select “Add a new forest” and enter the domain name that will be used in the Root Domain Name.
    
-     ![59](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\59.PNG)
+     ![59](https://user-images.githubusercontent.com/92453574/143680416-c6f83e28-ee8d-4e3c-b9f1-a1db161e4f74.PNG)
    
      
    
    - Select “Windows Server 2016” at the functional level, put a check mark on “Domain Name System (DNS) server” and “Global Catalog (GC)”. Then create password.
    
-     ![60](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\60.PNG)
+     ![60](https://user-images.githubusercontent.com/92453574/143680419-46a648e7-8646-4103-99b3-207835b19d09.PNG)
    
      
    
    - Click "Next"
    
-     ![61](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\61.PNG)
+     ![61](https://user-images.githubusercontent.com/92453574/143680421-7419add3-450c-4aa6-8efa-59171e03bc66.PNG)
    
      
    
    - Fill in The NetBIOS domain name according to the domain name used.
    
-     ![62](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\62.PNG)
+     ![62](https://user-images.githubusercontent.com/92453574/143680423-3991d120-c22d-43c8-8eb4-4ca9f751a66e.PNG)
    
      
    
    - Click "Next"
    
-     ![63](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\63.PNG)
+     ![63](https://user-images.githubusercontent.com/92453574/143680424-eb22865e-8c8f-4261-abd2-03733b9fe830.PNG)
    
      
    
    - Click "Next"
    
-     ![64](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\64.PNG)
+     ![64](https://user-images.githubusercontent.com/92453574/143680426-7135449f-6937-4563-954b-8789bc79e99e.PNG)
    
      
    
    - Click "Install"
    
-     ![65](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\65.PNG)
+     ![65](https://user-images.githubusercontent.com/92453574/143680427-f176453c-ca64-4659-b54d-b0cc3fc086d4.PNG)
    
      
    
    - Wait until the installation is complete, and the Windows Server 2022 will be reboot
    
-     ![66](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\66.PNG)
+     ![66](https://user-images.githubusercontent.com/92453574/143680429-013b5de7-8d74-44d1-9757-8e020ebe68b2.PNG)
    
      
    
    - Sign in with your password administrator
    
-     ![67](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\67.PNG)
+     ![67](https://user-images.githubusercontent.com/92453574/143680430-59b5ac3d-2952-405a-a18f-76b1562f1518.PNG)
    
      
    
    - To check the configuration results, open cmd and type “netdom query fsmo”
    
-     ![68](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\68.PNG)
+     ![68](https://user-images.githubusercontent.com/92453574/143680431-7f8652ee-aebb-4ac8-953a-334305ea1136.PNG)
    
      
    
    - And the process is successful
    
-     ![69](D:\KULIAH\.tugas kuliah\sem 5\SAS\UTS win server 2022\dokumentasi\69.PNG)
+     ![69](https://user-images.githubusercontent.com/92453574/143680433-5dadee20-4135-48d9-85ef-6c3173ea5a01.PNG)
    
      
    
